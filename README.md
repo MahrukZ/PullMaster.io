@@ -4,20 +4,39 @@
 
 ## Table of Contents
 
+- [About](#about)
+
+- [Key Features](#key-features)
+
 - [Getting Started](#getting-started)
 
 - [Clone Repository](#clone-repository)
 
 - [Installation](#installation)
 
-- [Documentation](#documentation)
-
 - [Deployment](#deployment)
 
-- [GitLab CI/CD Pipeline Setup Instructions](#pipeline)
+- [GitLab CI/CD Pipeline Setup Instructions](#GitLab-CICD-Pipeline-Setup-Instructions)
 
-  
-  
+## About
+
+PullMaster.io is a software application designed to streamline the code review process and empower junior developers to improve their skills and gain recognition for their work. This platform caters to both developers and managers, offering a seamless and efficient code evaluation system that saves time and effort while ensuring thorough assessments of all pull requests.
+
+## Key Features
+
+- Dynamic Trackers for Code Reviews: Managers can easily review pull requests against a list of dynamic trackers, facilitating a comprehensive evaluation of code quality and its impact on the project.
+
+- Star-Based Rating System: Managers can rate pull requests with stars based on their quality and significance to the project, providing a quantifiable and standardized evaluation method.
+
+- Time-Saving and Efficient: PullMaster.io streamlines the code review process, allowing managers to conduct reviews swiftly without compromising on accuracy and thoroughness.
+
+## Motivation for Junior Developers
+
+- Earn Recognition: Junior developers can earn recognition for their contributions by getting their pull requests rated and accumulating stars.
+
+- Rewards and Incentives: By earning stars, developers can unlock rewards and incentives, providing motivation for continuous improvement.
+
+- Friendly Competition: The leaderboard showcases the order of stars earned by developers, encouraging friendly competition and inspiring excellence.
 
 ## Getting started
 
