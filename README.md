@@ -49,7 +49,7 @@ Clone the repository:
 
 ```
 
-git clone https://git.cardiff.ac.uk/c1986023/team7_gamificationsystem.git
+git clone https://github.com/Mahrukhz/PullMaster.io.git
 
 ```
 
