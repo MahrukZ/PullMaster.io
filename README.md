@@ -7,6 +7,8 @@
 
 - [Key Features](#key-features)
 
+- [Tech Stack](#tech-stack)
+
 - [Architecture](#architecture)
 
 - [Getting Started](#getting-started)
@@ -38,6 +40,29 @@ PullMaster.io is a software application designed to streamline the code review p
 - Rewards and Incentives: By earning stars, developers can unlock rewards and incentives, providing motivation for continuous improvement.
 
 - Friendly Competition: The leaderboard showcases the order of stars earned by developers, encouraging friendly competition and inspiring excellence.
+
+
+## Tech stack
+
+
+PullMaster.io is built using the MERN stack, a powerful and popular combination of technologies that allows for the development of robust and scalable web applications. The MERN stack comprises four main technologies, each serving a specific purpose in the application's architecture:
+
+- **MongoDB**:
+  MongoDB is a NoSQL database that provides a flexible and scalable approach to storing and managing data. It allows us to model complex relationships and handle large
+  amounts of data efficiently, making it an ideal choice for a dynamic platform like PullMaster.io.
+
+- **Express**:
+  Express.js is a minimal and flexible Node.js web application framework that simplifies the process of building server-side applications. It provides a set of essential 
+  features and middleware, allowing us to create a robust and performant backend to handle various API endpoints and business logic.
+
+- **React**:
+  React is a widely used JavaScript library for building user interfaces. With its component-based architecture and virtual DOM, React enables us to create dynamic and   
+  responsive front-end interfaces for PullMaster.io. The use of React components facilitates code reusability, making the application easier to maintain and extend.
+
+- **Node.js**:
+  Node.js is a server-side JavaScript runtime that allows us to execute JavaScript code outside the browser. It provides an event-driven, non-blocking I/O model, which   
+  ensures high scalability and performance for our backend. Node.js is the foundation of the entire MERN stack, enabling seamless communication between the front-end and 
+  back-end components of PullMaster.io.
 
 
 ## Architecture
