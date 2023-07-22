@@ -1,12 +1,13 @@
 # Gamification System
 
-  
 
 ## Table of Contents
 
 - [About](#about)
 
 - [Key Features](#key-features)
+
+- [Architecture](#architecture)
 
 - [Getting Started](#getting-started)
 
@@ -37,6 +38,22 @@ PullMaster.io is a software application designed to streamline the code review p
 - Rewards and Incentives: By earning stars, developers can unlock rewards and incentives, providing motivation for continuous improvement.
 
 - Friendly Competition: The leaderboard showcases the order of stars earned by developers, encouraging friendly competition and inspiring excellence.
+
+
+## Architecture
+
+**System Context Diagram**
+
+![SystemContextDiagram](https://github.com/Mahrukhz/PullMaster.io/assets/68380691/b0d0c353-f05e-48ac-a043-eaecf1c584c6)
+
+
+
+
+**Container Diagram**
+
+![Picture1](https://github.com/Mahrukhz/PullMaster.io/assets/68380691/94cabc5b-35bb-4b62-9186-71afb5b1175b)
+
+
 
 ## Getting started
 
